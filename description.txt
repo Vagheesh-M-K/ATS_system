@@ -1,0 +1,20 @@
+PyPDF2
+text extraction
+Google Gemini Pro
+PromptTeamplate
+streamlit
+
+Compares a candidate's resume and the job description and feedbacks what is good, 
+important keywords to consider, what keywords, skills, experiences and other requirements 
+are missing in the candidate, how much the candidate's profile
+fit the job role. Quantifies how much a candidate is suited for the job role
+
+Apart from this 
+Langchain
+----------
+OpenAI API, models, prompts, output_parsers,
+indexes, chains, LLM_Chain, SimpleSequentialChain, SequentialChain,
+RouterChain, QA_Chain, Summarise_Chain, Agents
+
+VSCode, windows prompt, 
+FILE HANDLING, encoding, decoding

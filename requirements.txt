@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+google-generativeai
+pdf2image
+poppler-utils
+PyPDF2
