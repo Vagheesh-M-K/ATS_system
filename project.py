@@ -1,6 +1,4 @@
-# ATS tracking system cum resume-refiner that helps the candidate 
-# optimise the resume for a particular job based on the specific keywords
-# and job requirements
+# Resume-Refiner that helps the candidate optimise the resume for a particular job based on the specific keywords and job requirements
 
 import streamlit as st
 from PyPDF2 import PdfReader
